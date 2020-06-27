@@ -1,0 +1,72 @@
+.main{
+    margin-top: 20px;
+    width: 202px;
+}
+.ab{
+    background-color: gray;
+}
+.nam{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: gray;
+    color: black
+}
+.res{
+    background-color: rgba(167, 212, 248, 0.932);
+    width: 165px;
+    height: 50px;
+    margin-bottom: 3px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.clear{
+    width: 172px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: medium;
+    border: 1px solid black;
+}
+.no{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.btnO{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 83px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.equal{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 172px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: medium;
+    border: 1px solid black;
+}
+.clear:hover{
+    background-color: rgba(241, 241, 178, 0.877);
+}
+.no:hover{
+    background-color: rgba(241, 241, 178, 0.877);
+
+}
+.btnO:hover{
+    background-color: rgba(241, 241, 178, 0.877);
+
+}
+.equal:hover{
+    background-color: rgba(241, 241, 178, 0.877);
+
+}
